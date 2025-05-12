@@ -8,4 +8,4 @@
 
 - click three time to turn it off
 
-![puck](puckjs.jpg)
+<img src="puckjs.jpg" width="450">
