@@ -7,3 +7,5 @@
 - click to send 'N'
 
 - click three time to turn it off
+
+![puck](puckjs.jpg)
